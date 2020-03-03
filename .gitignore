@@ -1,0 +1,5 @@
+database/*
+.vscode/*
+venv/
+__pycache__/
+*.h5
